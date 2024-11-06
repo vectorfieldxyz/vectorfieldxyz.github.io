@@ -52,12 +52,12 @@ h3 {
 /* Link Styling */
 a:link,
 a:visited {
-  color: #80cbc4; /* Calmer teal color for links */
+  color: #dbff11; /* Calmer teal color for links */
   text-decoration: none;
 }
 
 a:hover {
-  color: #4db6ac; /* Slightly lighter teal on hover */
+  color: #b69f4d; /* Slightly lighter teal on hover */
 }
 
 /* Code Block Styling */
